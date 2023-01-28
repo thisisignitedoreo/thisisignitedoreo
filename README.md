@@ -1,5 +1,6 @@
 ## Hi there 👋
-I am 13 years old proger on python and js.<br />
+I am 13 years old proger on python and js (very poorly).
+
 I love foxes.
 
 ### Projects:
