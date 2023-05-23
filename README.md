@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am 13 years old proger on python and js (very poorly).
 
-I love foxes.
+I ~~love~~ like foxes.
 
 ### Projects:
 - [TCB++](https://github.com/thisisignitedoreo/tcbpp) - GD Clickbot
