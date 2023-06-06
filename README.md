@@ -5,5 +5,5 @@ I ~~love~~ like foxes.
 
 ### Projects:
 - [TCB++](https://github.com/thisisignitedoreo/tcbpp) - GD Clickbot
-- [TheLastMirror](https://github.com/thisisignitedoreo/thelastmirror) - Russian torrent games mirror
+- [deoxidyzed](https://github.com/thisisignitedoreo/thelastmirror) - Geometry Dash build with patches +launcher with mods repository
 - [RatLauncher](https://github.com/thisisignitedoreo/ratlauncher) - Minecraft launcher on Python.
