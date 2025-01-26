@@ -1,6 +1,5 @@
-## hello 👋
-i am 14 yo python and sometimes ~~cpp~~ c dev (fuck cpp) and linux enthusiast
+## Hi 👋
+I do stuff<br/>
+Mostly in Python and C
 
-i go by lots of nicknames, so aciddev = cosmo = ignitedoreo
-
-void linux on top!
+Fuck CPP, Void on top
