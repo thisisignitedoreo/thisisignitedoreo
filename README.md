@@ -3,3 +3,5 @@ I do stuff<br/>
 Mostly in Python and C
 
 Fuck CPP, Void on top
+
+https://aciddev.neocities.org/
