@@ -1,8 +1,8 @@
 ## Hi 👋
 I do stuff<br/>
-Mostly in Python and C<br/>
+Mostly in Python, C and C++<br/>
 Sometimes Zig :^)
 
-Fuck CPP, Void on top
+I hate C++, and I am a masochist
 
 https://aciddev.neocities.org/
