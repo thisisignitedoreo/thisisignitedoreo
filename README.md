@@ -1,8 +1,5 @@
-## Hi 👋
-I do stuff<br/>
-Mostly in Python, C and C++<br/>
-Sometimes Zig :^)
+## ☠️ This profile is abandoned.
 
-I hate C++, and I am a masochist
+Refer to my [git.gay profile](https://git.gay/aciddev/) to see all my current and new projects.
 
-https://aciddev.neocities.org/
+[Fuck GitHub.](https://ziglang.org/news/migrating-from-github-to-codeberg/)
